@@ -10,6 +10,6 @@
   <body>
     <h1>repositorio github</h1>
     <p> hola </p>
-    <script src="script.js"></script>
+    
   </body>
 </html>
